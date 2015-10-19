@@ -1,7 +1,7 @@
 import React from 'react'
 import Header from './../Header/Header'
 import 'bootstrap'
-import '../../../vendor/bootstrap/dist/css/bootstrap.min.css'
+import '../../../node_modules/bootstrap/dist/css/bootstrap.min.css'
 import '../../styles/main.scss'
 
 
