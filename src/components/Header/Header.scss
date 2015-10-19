@@ -1,0 +1,21 @@
+@import '../../styles/variables';
+
+.header {
+  .logo {
+    float: left;
+    background-image: url('../../assets/logo.png');
+    background-size: cover;
+    height: 30px;
+    width: 30px;
+    margin-top: -5px;
+    margin-left: -4px;
+  }
+
+  .header-text {
+    padding: 10px;
+  }
+
+  .navbar-header .navbar-brand {
+    color: $primary-colour;
+  }
+}

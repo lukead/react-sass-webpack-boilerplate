@@ -1,0 +1,18 @@
+@import 'variables';
+
+body {
+  margin-top: 50px;
+}
+
+.jumbotron {
+  background-color: $inverse-colour;
+  text-align: center;
+}
+
+.description {
+  color: $primary-colour;
+
+  p {
+    color: $secondary-colour;
+  }
+}

@@ -1,0 +1,21 @@
+@import '../../styles/variables';
+
+.home {
+  .jumbotron {
+    padding-top: 100px;
+    height: 400px;
+  }
+
+  .logo {
+    margin-left: auto;
+    margin-right:auto;
+    background-image: url('../../assets/logo.png');
+    background-size: cover;
+    height: 60px;
+    width: 60px;
+  }
+
+  .heading {
+    margin-left: 80px;
+  }
+}
