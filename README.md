@@ -32,6 +32,11 @@ $ npm run build
 ```
 
 ##Acknowledgements
-TBD
+This boilerplate took inspiration from many of the react boilerplates on github.
+In particular, take a look at the excellent repositories from:
+[Christian Alfoni](https://github.com/christianalfoni)
+[Jonathan Petitcolas](https://github.com/jpetitcolas)
+
+There is also copious use of the examples from the [React](https://facebook.github.io/react/) and [Bootstrap](http://getbootstrap.com/) websites.
 
 MIT © Lukead Ltd
