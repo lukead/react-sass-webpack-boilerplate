@@ -1,4 +1,5 @@
 # react-sass-webpack-boilerplate
+[![Build Status](https://travis-ci.org/lukead/react-sass-webpack-boilerplate.svg?branch=master)](https://travis-ci.org/lukead/react-sass-webpack-boilerplate)
 > React boilerplate, using [Sass](http://sass-lang.com/) imported from jsx, [react-router](https://github.com/rackt/react-router), [Bootstrap](http://getbootstrap.com/) and [Webpack](https://webpack.github.io/)
 
 ##Prerequisites
