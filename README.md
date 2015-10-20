@@ -1,5 +1,8 @@
 # react-sass-webpack-boilerplate
 [![Build Status](https://travis-ci.org/lukead/react-sass-webpack-boilerplate.svg?branch=master)](https://travis-ci.org/lukead/react-sass-webpack-boilerplate)
+[![Dependencies](https://david-dm.org/lukead/react-sass-webpack-boilerplate.svg)](https://david-dm.org/lukead/react-sass-webpack-boilerplate.svg)
+[![Dev Dependencies](https://david-dm.org/lukead/react-sass-webpack-boilerplate/dev-status.svg)](https://david-dm.org/lukead/react-sass-webpack-boilerplate/dev-status.svg)
+[![Codacy Badge](https://api.codacy.com/project/badge/204e48c3fab44a4bb19229ffbacd3a8b)](https://www.codacy.com/app/github_23/react-sass-webpack-boilerplate)
 > React boilerplate, using [Sass](http://sass-lang.com/) imported from jsx, [react-router](https://github.com/rackt/react-router), [Bootstrap](http://getbootstrap.com/) and [Webpack](https://webpack.github.io/)
 
 ##Prerequisites
